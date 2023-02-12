@@ -6,15 +6,16 @@
 }
 
 :root {
-  --color-primary: #191d2b;
-  --color-secondary: #27AE60;
+  --color-primary: #1D2222;
+  --color-secondary: #89A3D5;
+  --color-accent: #BCBCDB;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
   --color-grey-1: #dbe1e8;
   --color-grey-2: #b2becd;
-  --color-grey-3: #6c7983;
-  --color-grey-4: #454e56;
+  --color-grey-3: #BCBCDB;
+  --color-grey-4: #3A78AF;
   --color-grey-5: #2a2e35;
   --color-grey-6: #12181b;
   --br-sm-2: 14px;
@@ -23,14 +24,15 @@
 
 .light-mode {
   --color-primary: #FFFFFF;
-  --color-secondary: #F56692;
-  --color-white: #454e56;
+  --color-secondary: #D49796;
+  --color-accent: #DCAE96;
+  --color-white: #47484A;
   --color-black: #000;
   --color-grey0: #f8f8f8;
-  --color-grey-1: #6c7983;
+  --color-grey-1: #DBCAC0;
   --color-grey-2: #6c7983;
   --color-grey-3: #6c7983;
-  --color-grey-4: #454e56;
+  --color-grey-4: #f8f8f8;
   --color-grey-5: #f8f8f8;
   --color-grey-6: #12181b;
 }
@@ -64,6 +66,61 @@ section {
   left: 0;
   top: 0;
   padding: 3rem 18rem;
+}
+
+.myImg{
+  cursor: pointer;
+}
+/* Style the modal container */
+#myModal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.9);
+}
+
+/* Style the modal image */
+.modal-content {
+  max-width: 80%;
+  margin: auto;
+  display: block;
+}
+
+/* Add a caption text */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add a "close" button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+/* When the user clicks on the button, close the modal */
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .container {
@@ -308,23 +365,23 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 85%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
+.about-stats .progress-bars .progress-bar .progress-con .progress .r {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .analytics {
+  width: 85%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .matlab {
+  width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .database {
+  width: 95%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+  width: 90%;
 }
 
 .stat-title {
@@ -347,14 +404,15 @@ section {
 
 /*Timeline*/
 .timeline {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 2rem;
-  padding-bottom: 3rem;
+  display: block;
+  /* grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2rem; 
+  padding-bottom: 3rem;*/
 }
 .timeline .timeline-item {
   position: relative;
   padding-left: 3rem;
+  padding-bottom: 3rem;
   border-left: 1px solid var(--color-grey-5);
 }
 .timeline .timeline-item .tl-icon {
@@ -438,12 +496,12 @@ section {
   color: var(--color-white);
   margin-bottom: 1.5rem;
 }
-.portfolios .portfolio-item .hover-items .icons {
+.portfolios .portfolio-item .hover-items .icons, .blog-text .icons{
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.portfolios .portfolio-item .hover-items .icons .icon {
+.portfolios .portfolio-item .hover-items .icons .icon, .blog-text .icons .icon{
   background-color: var(--color-primary);
   border-radius: 50%;
   width: 50px;
@@ -455,15 +513,15 @@ section {
   cursor: pointer;
   transition: all 0.4s ease-in-out;
 }
-.portfolios .portfolio-item .hover-items .icons .icon i {
+.portfolios .portfolio-item .hover-items .icons .icon i, .blog-text .icons .icon i{
   font-size: 1.5rem;
   color: var(--color-white);
   margin: 0 1rem;
 }
-.portfolios .portfolio-item .hover-items .icons .icon:hover {
+.portfolios .portfolio-item .hover-items .icons .icon:hover, .blog-text .icons .icon:hover {
   background-color: var(--color-white);
 }
-.portfolios .portfolio-item .hover-items .icons .icon:hover i {
+.portfolios .portfolio-item .hover-items .icons .icon:hover i, .blog-text .icons .icon:hover i {
   color: var(--color-primary);
 }
 
