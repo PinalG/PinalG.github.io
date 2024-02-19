@@ -6,22 +6,22 @@ Passionate about leveraging technology for positive impact. An AI/ML enthusiast 
 
 As a Marketing and Data Analyst at Blissful7 Marketing Consultancy, successfully increased page visits by 59% through advanced data science techniques, optimizing strategies for targeted marketing campaigns. Improved conversion rates by 23% through data analysis of customer interactions. Conducted exploratory data analysis, developed comprehensive reports, and merged marketing and data analysis insights for strategic decision-making.
 
-###EDUCATION:
+<h3>EDUCATION:</h3>
 - MS in Artificial Intelligence, Yeshiva University, Katz School of Science of Health, Dec 2024
 - Advanced Certification in Data Science, International Institute of Information Technology, Sep 2022
 - Bachelor of Science in IT - Software Development, Gujarat University, Jun 2021
 
-###PROFESSIONAL EXPERIENCE:
+<h3>PROFESSIONAL EXPERIENCE:</h3>
 - Web Developer and Analyst at Modiant World, Nov 2020 - Sep 2021, responsible for boosting leads, conducting data analysis, and escalating sales through financial forecasting.
 
-###SKILLS:
+<h3>SKILLS:</h3>
 Proficient in Python, R, SQL, TensorFlow, PyTorch, and sci-kit-learn. Experienced in NLP, computer vision, reinforcement learning, big data tools, cloud platforms (AWS, Azure, Google Cloud), and DevOps principles.
 
-###CERTIFICATIONS:
+<h3>CERTIFICATIONS:</h3>
 - Social and Behavioral Responsible Conduct of Research | CITI Program | Oct 2023
 - Machine Learning | Coursera - Stanford University | 2021
 - Artificial Intelligence with ML | WAC - Workshop series at DA-IICT | 2020
 - Webinar on Research and Scientific Writing | Gujarat University Library | May 2020
 
-###SUMMARY:
+<h3>SUMMARY:</h3>
 Results-oriented AI/ML enthusiast with comprehensive skills in programming, databases, machine learning, and data science. Seeking a challenging role to apply expertise in impactful AI/ML projects.
