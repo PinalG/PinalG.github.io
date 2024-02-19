@@ -1,6 +1,6 @@
 # PinalG.github.io 
 
-##My portfolio
+<h2>My portfolio</h2>
 
 Passionate about leveraging technology for positive impact. An AI/ML enthusiast with a strong background in Python, R, and PHP programming, skilled in databases such as MySQL, MongoDB, PostgreSQL, and Neo4j. Proficient in a wide array of machine learning techniques, including regression, classification, clustering, neural networks, computer vision, and deep learning. Experienced in natural language processing, image processing, and reinforcement learning. Well-versed in libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, and SkLearn. Adept at statistical analysis, predictive modeling, feature engineering, and exploratory data analysis.
 
