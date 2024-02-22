@@ -12,7 +12,8 @@ As a Marketing and Data Analyst at Blissful7 Marketing Consultancy, successfully
 - Bachelor of Science in IT - Software Development, Gujarat University, Jun 2021
 
 <h3>PROFESSIONAL EXPERIENCE:</h3>
-- Web Developer and Analyst at Modiant World, Nov 2020 - Sep 2021, responsible for boosting leads, conducting data analysis, and escalating sales through financial forecasting.
+- Marketing and Data Analyst at Blissful7 Marketing Consultancy, Nov 2021 - Aug 2023, achieved a remarkable 59% increase in page visits through the application of advanced data science techniques
+- Web Developer and Analyst at Modiant World, Aug 2020 - Sep 2021, responsible for boosting leads, conducting data analysis, and escalating sales through financial forecasting
 
 <h3>SKILLS:</h3>
 Proficient in Python, R, SQL, TensorFlow, PyTorch, and sci-kit-learn. Experienced in NLP, computer vision, reinforcement learning, big data tools, cloud platforms (AWS, Azure, Google Cloud), and DevOps principles.
