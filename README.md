@@ -33,6 +33,7 @@ Advancing Text-to-Music Generation
 - Techniques: Generative AI, Audio Synthesis, Deep Generative Models
 
 <h3>TECHNICAL SKILLS:</h3>
+
 - Programming Languages: Python, R, PHP
 - Databases: MySQL, MongoDB, PostgreSQL, Neo4j
 - Machine Learning: Regression, Classification, Clustering, Neural Networks, Reinforcement Learning
