@@ -19,19 +19,19 @@ Passionate about leveraging technology for positive impact, specializing in AI/M
 
 <h3>NOTABLE PROJECTS & RESEARCH:</h3>
 
-Predictive Modeling and Analysis of Building Permit Jurisdictions
+<h5>Predictive Modeling and Analysis of Building Permit Jurisdictions</h5>
 
 - Analyzed 12,000+ data entries to identify regional trends in building permits
 - Applied Random Forest & Clustering for predictive insights
 - Techniques: Feature Engineering, Chi-Square Testing, Correlation Analysis
 
-Robust Crowd Density Estimation Using Wi-Fi RSSI and Machine Learning
+<h5>Robust Crowd Density Estimation Using Wi-Fi RSSI and Machine Learning</h5>
 
 - Evaluated Random Forest, CNN, XGBoost, and KNN for RSSI-based crowd estimation
 - Achieved superior accuracy with Random Forest using MSE, MAE, and RMSE metrics
 - Techniques: Ensemble Learning, Data Collection, Exploratory Data Analysis
 
-Advancing Text-to-Music Generation
+<h5>Advancing Text-to-Music Generation</h5>
 
 - Researched state-of-the-art models for music generation
 - Evaluated models using CLAP score, Frechet Audio Distance, and KL Divergence
@@ -47,5 +47,6 @@ Advancing Text-to-Music Generation
 - Cloud & Big Data: AWS, Azure, Google Cloud, DevOps Principles
 
 <h3>CERTIFICATIONS:</h3>
+
 - Machine Learning | Coursera - Stanford University 
 - Advanced Certification in Data Science, International Institute of Information Technology
