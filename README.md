@@ -19,11 +19,10 @@ Passionate about leveraging technology for positive impact, specializing in AI/M
 
 <h3>NOTABLE PROJECTS & RESEARCH:</h3>
 
-<h5>Predictive Modeling and Analysis of Building Permit Jurisdictions</h5>
+<h5>Multimodal AI for Content Moderation & Safety – Hateful Meme Detection</h5>
 
-- Analyzed 12,000+ data entries to identify regional trends in building permits
-- Applied Random Forest & Clustering for predictive insights
-- Techniques: Feature Engineering, Chi-Square Testing, Correlation Analysis
+- Developed a hate speech detection model leveraging VisualBERT and RoBERTa, integrating NLP and Computer Vision
+- Optimized enforcement strategies by building classification pipelines that improved moderation accuracy by 18%
 
 <h5>Robust Crowd Density Estimation Using Wi-Fi RSSI and Machine Learning</h5>
 
@@ -39,14 +38,13 @@ Passionate about leveraging technology for positive impact, specializing in AI/M
 
 <h3>TECHNICAL SKILLS:</h3>
 
-- Programming Languages: Python, R, PHP
-- Databases: MySQL, MongoDB, PostgreSQL, Neo4j
-- Machine Learning: Regression, Classification, Clustering, Neural Networks, Reinforcement Learning
-- Deep Learning: Computer Vision, NLP, Feature Engineering
-- Libraries & Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, Keras, OpenCV, NLTK
-- Cloud & Big Data: AWS, Azure, Google Cloud, DevOps Principles
+- Programming and Databases: Python, R, Java, SQL, MySQL, PostgreSQL, MongoDB, Neo4j
+- AI/ML: Supervised & Unsupervised Learning, Deep Learning (CNNs, Transformers, RNNs), Generative AI, Self-Supervised Learning, Multimodal Learning, Reinforcement Learning, Retrieval-Augmented Generation (RAG), Autonomous AI Agents, LLM
+- MLOps: AWS (S3, Lambda, SageMaker), Google Cloud (Vertex AI, BigQuery), Hadoop, ETL/ELT, Kubernetes, Docker, CI/CD
+- Libraries: TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, Langchain, OpenAI API, XGBoost, Ollama
+- Tools: Tableau, Power BI, Looker, Matplotlib, Seaborn, FastAPI, Model Context Protocol, Claude, DeepSeek
 
 <h3>CERTIFICATIONS:</h3>
 
-- Machine Learning | Coursera - Stanford University 
-- Advanced Certification in Data Science, International Institute of Information Technology
+- Machine Learning Specialization – Stanford University (Coursera) | Jan 2023
+- Advanced Certification in Data Science – IIIT Bangalore | July 2022
