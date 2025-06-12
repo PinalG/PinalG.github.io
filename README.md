@@ -2,7 +2,7 @@
 
 <h2>My portfolio</h2>
 
-Passionate about leveraging technology for positive impact, specializing in AI/ML, data science, and software development. Expertise in predictive modeling, NLP, computer vision, and deep learning with hands-on experience in statistical analysis and feature engineering.
+Passionate about leveraging technology for positive impact, specializing in AI/ML, data science, and software development. Expertise in predictive modeling, NLP, computer vision, and deep learning with hands-on experience in statistical analysis and feature engineering. Proven track record in building AI-powered platforms, scalable ETL pipelines, and event-driven architectures. Strong background in federal-compliant AI workflows, statistical modeling, and interactive dashboards for business intelligence.
 
 <h3>EDUCATION:</h3>
 
@@ -11,11 +11,11 @@ Passionate about leveraging technology for positive impact, specializing in AI/M
 
 <h3>PROFESSIONAL EXPERIENCE:</h3>
 
-- AI/ML Engineer at Community Dreams Foundation, Sep 2024, Built and tested predictive models with 85% accuracy, integrating feature engineering and advanced validation techniques to optimize predictions, and deployed insights that informed strategies for reducing project delays by 20%
+- AI Project Manager / EPM at Community Dreams Foundation, Sep 2024, Leading development of an AI-powered sustainable clothing platform using NLP categorization, price optimization, and bidding logic, and deployed insights that informed strategies for reducing project delays by 20%
 
 - Marketing and Data Analyst at Blissful7 Marketing Consultancy, Nov 2021 - Aug 2023, achieved a remarkable 59% increase in page visits through the application of advanced data science techniques
 
-- Web Developer and Analyst at Modiant World, Aug 2020 - Sep 2021, responsible for boosting leads, conducting data analysis, and escalating sales through financial forecasting
+- Data Analyst at Modiant World, Aug 2020 - Sep 2021, responsible for boosting leads, conducting data analysis, and escalating sales through financial forecasting
 
 <h3>NOTABLE PROJECTS & RESEARCH:</h3>
 
@@ -42,7 +42,7 @@ Passionate about leveraging technology for positive impact, specializing in AI/M
 - AI/ML: Supervised & Unsupervised Learning, Deep Learning (CNNs, Transformers, RNNs), Generative AI, Self-Supervised Learning, Multimodal Learning, Reinforcement Learning, Retrieval-Augmented Generation (RAG), Autonomous AI Agents, LLM
 - MLOps: AWS (S3, Lambda, SageMaker), Google Cloud (Vertex AI, BigQuery), Hadoop, ETL/ELT, Kubernetes, Docker, CI/CD
 - Libraries: TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, Langchain, OpenAI API, XGBoost, Ollama
-- Tools: Tableau, Power BI, Looker, Matplotlib, Seaborn, FastAPI, Model Context Protocol, Claude, DeepSeek
+- Tools: Tableau, Power BI, Looker, Matplotlib, Seaborn, FastAPI, Model Context Protocol, Claude, DeepSeek, Lovable AI, Supabase
 
 <h3>CERTIFICATIONS:</h3>
 
